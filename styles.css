@@ -16,3 +16,15 @@
     border-radius: 10px 10px 0 0;
     background-color: #f1f1f1;
 }
+
+.image_1{
+    width: 100px;
+    height: 140px;
+    object-fit: cover;
+}
+
+.section_with_image{
+    display: flex;
+    flex-direction: row;
+    gap: 5px;
+}
